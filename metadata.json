@@ -1,0 +1,8 @@
+{
+  "name": "Vertex AI - Career Discovery & Performance",
+  "description": "An all-in-one AI career assistant for discovery, roadmap planning, skill building, and mock interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
